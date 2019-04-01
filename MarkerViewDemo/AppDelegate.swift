@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MarkerViewDemo
 //
-//  Created by Daffolspmac-67 on 27/03/19.
+//  Created by Shivam Bansal on 27/03/19.
 //
 
 import UIKit
